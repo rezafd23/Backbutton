@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Backbutton</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--first slide-->
+    <string name="slide1tittle">Bus Ticket</string>
+    <string name="slide1desc">Explore the most attractive deal</string>
+
+    <!--second slide-->
+    <string name="slide2title">Flight Ticket</string>
+    <string name="slide2desc">Explore the most attractive deal</string>
+
+    <!--Third Slide-->
+    <string name="slide3title">Train Ticket</string>
+    <string name="slide3desc">Explore the most</string>
+
+    <!--Fourth Slide-->
+    <string name="slide4title">Movie Ticket</string>
+    <string name="slide4desc">Explore the most attractive</string>
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>
+</resources>
